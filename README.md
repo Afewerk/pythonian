@@ -15,6 +15,7 @@ https://join.slack.com/t/h2-reporting/shared_invite/zt-d08et24m-TnIwD9JkZoKbl2Dc
 
 Resources: 
 1. Always download software from main sources
+
   Python: https://www.python.org/  - code editor  - Free
   Jupyter notebook: https://jupyter.org/ - code editor  - Free
   Pycharm : https://www.jetbrains.com/pycharm/ -  community edition - Free
@@ -23,12 +24,14 @@ Resources:
   
   
 2. Learning sources
+
   Udemy: https://www.udemy.com/ - Average $12 for full course
   Codwars: https://www.codewars.com/   - Free
   Code Acadamy: https://www.codecademy.com/ - $19.99/month 
   
   
 3. Peer Collaboration platform 
+
   Slack - https://slack.com/ - Free
   Collaboration platform: Slack Channel 
   Use the bottom invitation link
