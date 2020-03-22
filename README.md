@@ -5,7 +5,7 @@ Hi All,
 
 If you landed on this page, that means you've shown some interest to learn python and wanted some resources. For starters, you should commend yourself for passing the first step to learn python. 
 
-Languages spoken: English, Amharic, Oromiffa, Somali, Nepali, Hindi
+Languages spoken: English, Amharic, Somali, Nepali, Hindi
 
 
 Collaboration platform: Slack Channel 
